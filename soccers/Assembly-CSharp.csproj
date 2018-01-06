@@ -51,14 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\distance.cs" />
-     <Compile Include="Assets\drag.cs" />
-     <Compile Include="Assets\lookatobject.cs" />
-     <Compile Include="Assets\odchylanie.cs" />
-     <Compile Include="Assets\pochylanie.cs" />
-     <Compile Include="Assets\rotate.cs" />
-     <Compile Include="Assets\virtualjoy.cs" />
-     <Compile Include="Assets\virtualpowerjoy.cs" />
+     <Compile Include="Assets\bramkaCollider.cs" />
+     <Compile Include="Assets\play.cs" />
+     <Compile Include="Assets\Scripts\distance.cs" />
+     <Compile Include="Assets\Scripts\drag.cs" />
+     <Compile Include="Assets\Scripts\goalkepper.cs" />
+     <Compile Include="Assets\Scripts\lookatobject.cs" />
+     <Compile Include="Assets\Scripts\odchylanie.cs" />
+     <Compile Include="Assets\Scripts\pochylanie.cs" />
+     <Compile Include="Assets\Scripts\rotate.cs" />
+     <Compile Include="Assets\Scripts\virtualjoy.cs" />
+     <Compile Include="Assets\Scripts\virtualpowerjoy.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
